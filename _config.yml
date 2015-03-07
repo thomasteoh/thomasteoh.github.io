@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            tteoh
+tagline:          'in which Thomas talks about things'
+description:      'A log of thoughts and ideas. Contact information can be found below'
+url:              http://www.tteoh.com
+
+author:
+  name:           'Thomas Teoh'
+  url:            https://www.twitter.com/tteoh
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
