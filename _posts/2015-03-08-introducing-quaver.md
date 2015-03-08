@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Introducing, Quaver
+title: Introducing Quaver
+comments: true
 ---
 
 My dog, Quaver, is a cross between a miniature fox terrier and a Jack Russell terrier. A picture of him can be found [here](http://www.tteoh.com/public/2015-03-08-quaver.jpg)

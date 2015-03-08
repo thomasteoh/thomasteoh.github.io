@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Transitioning the website to Github pages and jekyll
+comments: true
 ---
 
 With the discontinuation of the free hosting option by <a href="http://www.crucial.com.au">Crucial</a>, I found myself in the market for web hosting. My needs have been to this date simple and very low end; I was using it to essentially serve a webpage with links to ways to get in touch with me. For this, migrating to Crucial's <a href="http://www.crucial.com.au/web-hosting/">paid service</a> made little sense, as it would more than likely go underutilised.
@@ -25,6 +26,4 @@ An added advantage of this system is the git backend, a distributed revision con
 
 Github pages works very well with and are powered by <a href="http://jekyllrb.com/">jekyll</a>, a blog-aware static site generator. To use it, you work with text files on your computer and it runs it through a converter and renders out web-ready files. I've been meaning to try it out for a while now, but never really got around to it, in a manner of speaking; after all, everything was working just fine as it was, so why change? 
 
-There are some definite benefits to this system. Static sites require no processing of PHP and databases on the server side, unlike content management systems like <a href="https://wordpress.com/">Wordpress</a>. You could even host processed jekyll files on an extremely basic web server or a file hosting service <a href="http://www.dropbox.com">dropbox</a> if you wanted! 
-
-From what it currently looks like, it seems like most of my needs are being met.
+There are some definite benefits to this system. Static sites require no processing of PHP and databases on the server side, unlike content management systems like <a href="https://wordpress.com/">Wordpress</a>. You could even host processed jekyll files on an extremely basic web server or a file hosting service <a href="http://www.dropbox.com">Dropbox</a> if you wanted! 
