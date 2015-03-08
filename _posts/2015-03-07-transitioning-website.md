@@ -11,11 +11,17 @@ I'd previously transferred my domain name, tteoh.com, from <a href="http://www.n
 
 Using FreeDNS was pretty straightforwards, and involved setting my nameservers according to the details at <a href="https://www.namecheap.com/support/knowledgebase/article.aspx/536/51/how-do-i-set-my-domain-to-use-namecheaps-freedns-servers">this page</a>. My domain stayed at an INACTIVE status under Namecheap for a while, and only was fixed once I contacted support, <a href="https://www.namecheap.com/support/live-chat/general.aspx">here</a>. The link to contact them is at the bottom of the page. 
 
+## Github pages and git
+
 I took my current predicament as an opportunity to transition to a new system based on <a href="https://pages.github.com/">Github pages</a> as a hosting platform for a lightweight blog. It appears to be working pretty well so far (nice, fast, and reliable!). 
 
 <div class="message">
   It works! 
 </div>
+
+An added advantage of this system is the git backend, a distributed revision control system. While I won't be using all its features, it does a really good job of pushing updates to files and has inbuilt version control, in the likely event that I break something. 
+
+## Blogging with jekyll
 
 Github pages works very well with and are powered by <a href="http://jekyllrb.com/">jekyll</a>, a blog-aware static site generator. To use it, you work with text files on your computer and it runs it through a converter and renders out web-ready files. I've been meaning to try it out for a while now, but never really got around to it, in a manner of speaking; after all, everything was working just fine as it was, so why change? 
 
