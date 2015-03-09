@@ -4,7 +4,7 @@ title: Switching from Endnote to Zotero
 comments: true
 ---
 
-In my undergraduate years, I made good use of a very popular citation manager, [Endnote](http://endnote.com/). The purpose of these programs is to manage citations and literature (in my case, mostly journal articles), and provide references which are automatically formatted to be used in a bibliography. 
+In my undergraduate years, I made good use of a very popular citation manager, [Endnote](http://endnote.com/). The purpose of such programs is to manage citations and literature (in my case, mostly journal articles), and provide references which are automatically formatted to be used in a bibliography. 
 
 Why use it? Well, mainly because it saved substantial amounts of time. Additionally, because I was enrolled in a university with an institutional license, the use of the program was essentially at no additional cost to myself. Another point to make was that early on, there just were not many choices out there, and Endnote was just the most polished of the ones available. 
 
@@ -32,9 +32,9 @@ Like Endnote, it is a powerful citation manager, and adjusting to using it was v
 It has some particularly useful features for my work as well, which is a bonus:
 
 - Synchronisation across different computers is well integrated, and plays nicely when collaborating with groups
-- You are able to use your own online storage (as long as it supports WebDAV). I'll cover the settings I used in another post
+- You are able to use your own online storage (as long as it supports WebDAV). I'll cover the settings I used in [another post]({% post_url 2015-03-09-configuring-zotero-to-use-webdav %})
 - Native cross-platform support for different operating systems. I've switched to using linux now for my work computer
-- Excellent (and fast!) metadata retrieval and organisational mechanisms for PDFs. If you have a bunch of randomly named PDFs stored on your computer, you can ask Zotero to have a look at them and automatically fetch the citation details of the paper, and then it can rename the original file with author and title.
+- Excellent (and fast!) metadata retrieval and organisational mechanisms for PDFs. If you have a bunch of randomly named PDFs stored on your computer, you can ask Zotero to have a look at them and automatically fetch the citation details of the paper, and then it can rename the original file with author and title
 
 You are also able to add citations by clicking a button in the browser, which I've found to be a bit hit and miss (citations work great, but sometimes the attachments don't get properly attached - may be a problem with going through proxy systems that universities use to access journal subscriptions). 
 

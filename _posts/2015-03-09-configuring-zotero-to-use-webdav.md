@@ -40,4 +40,3 @@ Check the <strong>Sync attachment files</strong> option under File Syncing, and 
 Check <strong>Verify Server</strong>
 
 And with that, you should be set up!
-[here]({% post_url 2015-03-09-configuring-zotero-to-use-webdav %})
