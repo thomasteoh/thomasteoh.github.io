@@ -1,21 +1,25 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown:            redcarpet
+highlighter:         pygments
 
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:            tteoh
 tagline:          'in which Thomas talks about things'
 description:      'A sporadically updated log about thoughts, learning, research and life as a veterinarian in the beautiful city of Melbourne, Australia.'
 url:              http://www.tteoh.com
+baseurl:          /
+paginate:         3
 
 author:
   name:           'Thomas Teoh'
   url:            https://www.twitter.com/tteoh
-
-paginate:         5
+  email:          me@tteoh.com
 
 # Custom vars
 version:          1.0.0

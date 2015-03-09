@@ -6,6 +6,8 @@ comments: true
 
 My dog, Quaver, is a cross between a miniature fox terrier and a Jack Russell terrier. He has a temperament very typical of his breeds; that is, he is very fixated on chasing objects, and is very motivated by play. 
 
+<!--break-->
+
 ![Quaver on a walk](public/images/2015-03-08-quaver.jpg)
 Above is a picture of him at the park, with his frisbee. 
 

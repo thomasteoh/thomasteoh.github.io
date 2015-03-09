@@ -10,6 +10,8 @@ Why use it? Well, mainly because it saved substantial amounts of time. Additiona
 
 There were two main issues I encountered, especially towards the end of my studies: 
 
+<!--break-->
+
 - Synchronising databases of the base program across different machines frequently led to corrupted files. This was a problem because I commonly found myself needing to work on different machines at different locations (eg. home, travelling). Sending documents formatted with Endnote fields to colleagues who also used Endnote also tended to result in weird behaviours. 
 - In-built web-synchronisation via [Endnote web](https://www.myendnoteweb.com/) and continued usage without an institutional license incurred hefty subscription fees. While I'm sure there are certain ways around this particular problem, I would much rather use a system which was either affordable or free.
 

@@ -6,6 +6,8 @@ comments: true
 
 With the discontinuation of the free hosting option by <a href="http://www.crucial.com.au">Crucial</a>, I found myself in the market for web hosting. My needs have been to this date simple and very low end; I was using it to essentially serve a webpage with links to ways to get in touch with me. For this, migrating to Crucial's <a href="http://www.crucial.com.au/web-hosting/">paid service</a> made little sense, as it would more than likely go underutilised.
 
+<!--break-->
+
 ## Domain names and DNS
 
 I'd previously transferred my domain name, tteoh.com, from <a href="http://www.name.com.au">name.com.au</a> to <a href="https://www.namecheap.com/">Namecheap</a>, who provided a free DNS service alongside their domain names. If your domain registrar does not provide a DNS service, they also offer a free DNS hosting option called <a href="https://www.namecheap.com/domains/freedns.aspx">FreeDNS</a>, which I have used with a different domain. 

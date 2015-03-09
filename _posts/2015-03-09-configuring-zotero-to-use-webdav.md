@@ -8,6 +8,8 @@ Using [Zotero](http://www.zotero.org)'s sync service requires a Zotero account; 
 
 While Zotero has its own internal online storage and synchronisation system, space available to store attachments (such as PDFs) is limited for free accounts. As you are free to use your own WebDAV capable online file storage account to store attachments, this becomes less of a problem. 
 
+<!--break-->
+
 ## WebDAV
 
 <div class="message">
@@ -25,6 +27,7 @@ Open up your Zotero standalong installation, and navigate to the <strong>Edit > 
 ![Zotero sync](public/images/2015-03-13-zotero-sync.jpg)
 
 Zotero Sync Server
+
 - Username: Your Zotero username (eg. username@email.com)
 - Password: Your Zotero password, that you selected upon registration
 
