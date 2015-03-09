@@ -30,7 +30,7 @@ Like Endnote, it is a powerful citation manager, and adjusting to using it was v
 It has some particularly useful features for my work as well, which is a bonus:
 
 - Synchronisation across different computers is well integrated, and plays nicely when collaborating with groups
-- You are able to use your own online storage (as long as it supports WebDAV). I'll cover the settings I used [here]({% post_url 2015-03-14-configuring-zotero-webdav %})
+- You are able to use your own online storage (as long as it supports WebDAV). I'll cover the settings I used in another post
 - Native cross-platform support for different operating systems. I've switched to using linux now for my work computer
 - Excellent (and fast!) metadata retrieval and organisational mechanisms for PDFs. If you have a bunch of randomly named PDFs stored on your computer, you can ask Zotero to have a look at them and automatically fetch the citation details of the paper, and then it can rename the original file with author and title.
 

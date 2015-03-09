@@ -12,3 +12,5 @@ If you don't have one, or are not certain about what it is,
 
 The documentation is a little murky with regards to 
 settings
+
+[here]({% post_url 2015-03-14-configuring-zotero-webdav %})
