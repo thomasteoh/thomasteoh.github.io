@@ -13,16 +13,16 @@ title: Archive
 
 ## Science
 {% for post in site.posts %}
-  {% if post.tag == "science" %}
-  <small>{{ post.category | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
+  {% if post.category == "science" %}
+  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
   {% else %}
   {% endif %}
 {% endfor %}
 
 ## Technology
 {% for post in site.posts %}
-  {% if post.tag == "technology" %}
-  <small>{{ post.category | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
+  {% if post.category == "technology" %}
+  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
   {% else %}
   {% endif %}
 {% endfor %}
