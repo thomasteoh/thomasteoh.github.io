@@ -9,7 +9,9 @@ Because jekyll parses markdown when generating your static site, you can make us
 
 <!--break-->
 
-All thats really needed is a small snippet of code as follows:
+On the official [jekyll documentation](http://jekyllrb.com/docs/posts/), the way to set it up is listed under displaying an index of posts. As a programming lay-person, I interpret it as saying: Go through all the posts on the site, and every time you encounter a post, output these post variables. This serves quite well to provide an ordered list of all the posts that you have made.
+
+As with most other things, there is a degree of flexibility in the way you would like to implement it. Here is the edited version that I am using for my archive:
 
 {% highlight js %}
 {% raw %}
@@ -19,4 +21,4 @@ All thats really needed is a small snippet of code as follows:
 {% endraw %}
 {% endhighlight %}
 
-This example is available for download <a href="public/downloads/jekyll-archive.rar">here</a>
+This example is available for download <a href="{{ site.baseurl }}public/downloads/jekyll-archive.rar">here</a>
