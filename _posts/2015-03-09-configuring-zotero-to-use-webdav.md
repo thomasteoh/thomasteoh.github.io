@@ -25,7 +25,7 @@ Keep this information on hand, we will need it later
 
 Open up your Zotero standalong installation, and navigate to the <strong>Edit > Preferences</strong>. Under the Sync tab, you should see a window like this:
 
-![Zotero sync](public/images/2015-03-13-zotero-sync.jpg)
+![Zotero sync]({{ site.baseurl }}public/images/2015-03-13-zotero-sync.jpg)
 
 Zotero Sync Server
 
