@@ -6,7 +6,7 @@ title: Archive
 ## Animals
 {% for post in site.posts %}
   {% if post.tag == "animals" %}
-{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
   {% else %}
   {% endif %}
 {% endfor %}
@@ -14,7 +14,7 @@ title: Archive
 ## Science
 {% for post in site.posts %}
   {% if post.tag == "science" %}
-{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
   {% else %}
   {% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ title: Archive
 ## Technology
 {% for post in site.posts %}
   {% if post.tag == "technology" %}
-{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
   {% else %}
   {% endif %}
 {% endfor %}

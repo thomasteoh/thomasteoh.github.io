@@ -28,7 +28,7 @@ One year ago, I decided to make the switch to [Zotero](https://www.zotero.org/).
 
 Like Endnote, it is a powerful citation manager, and adjusting to using it was very intuitive. It is also available for free, so I don't have to worry so much about potential problems down the track should I not have an institutional license for software. 
 
-![Zotero main window]({{ site.baseurl }}/public/images/2015-03-13-zotero-main.jpg)
+![Zotero main window]({{ site.baseurl }}public/images/2015-03-13-zotero-main.jpg)
 
 It has some particularly useful features for my work as well, which is a bonus:
 
