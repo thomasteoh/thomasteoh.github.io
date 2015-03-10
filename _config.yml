@@ -13,7 +13,7 @@ title:            tteoh
 tagline:          'in which Thomas talks about things'
 description:      'A sporadically updated log about thoughts, learning, research and life as a veterinarian in the beautiful city of Melbourne, Australia.'
 url:              http://www.tteoh.com
-baseurl:          /
+baseurl:          
 paginate:         3
 
 author:

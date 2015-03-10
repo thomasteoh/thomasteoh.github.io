@@ -2,7 +2,7 @@
 layout: post
 title: Configuring Zotero to use WebDAV for file syncing
 comments: true
-category: science
+tag: science
 ---
 
 Using [Zotero](http://www.zotero.org)'s sync service requires a Zotero account; if you haven't already, register for one [here](https://www.zotero.org/user/register). Once you have successfully signed up for this, we can continue to configure the file syncing separately.
