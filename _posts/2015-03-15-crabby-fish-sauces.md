@@ -18,7 +18,7 @@ That being said, without this background knowledge, trying to find our fish sauc
 
 We found ourselves double and triple checking about the number of crabs on the bottle, trying to work out if it really made a big difference, and asking ourselves if it might be possible to combine the two to create three crabs (apparently I have been advised that it doesn't).
 
-In the end, we managed to get our hands on a bottle at Mind Phat Asian Supermarket, in Richmond (2-8 Nicholson St., Abbotsford VIC 3067). 
+In the end, we managed to get our hands on a bottle at Mind Phat Asian Supermarket, in Richmond (2-8 Nicholson St., Abbotsford VIC 3067). It can also be found online <a href="http://www.amazon.com/Three-Crabs-Brand-24-Ounce-Bottle/dp/B001OQWK0W">at Amazon</a>.
 
 <img src="http://i.imgur.com/f6380ic.jpg">
 
