@@ -11,10 +11,10 @@ relative_permalinks: true
 # Setup
 title:            tteoh
 tagline:          'in which Thomas talks about things'
-description:      'A sporadically updated log about thoughts, learning, research and life as a veterinarian in the beautiful city of Melbourne, Australia.'
+description:      'A sporadically updated log about life as a veterinarian in research.'
 url:              http://www.tteoh.com
 baseurl:          /
-paginate:         3
+paginate:         5
 
 author:
   name:           'Thomas Teoh'

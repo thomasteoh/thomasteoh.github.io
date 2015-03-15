@@ -11,6 +11,14 @@ title: Archive
   {% endif %}
 {% endfor %}
 
+## Food
+{% for post in site.posts %}
+  {% if post.category == "food" %}
+  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
+  {% else %}
+  {% endif %}
+{% endfor %}
+
 ## Science
 {% for post in site.posts %}
   {% if post.category == "science" %}
