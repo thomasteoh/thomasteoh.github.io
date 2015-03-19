@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:            tteoh
-tagline:          'in which Thomas talks about things'
-description:      'A sporadically updated log about life as a veterinarian in research.'
+tagline:          'talking about things'
+description:      'A sporadically updated log about life as a veterinarian in research with a dog named Quaver.'
 url:              http://www.tteoh.com
 baseurl:          /
 paginate:         5

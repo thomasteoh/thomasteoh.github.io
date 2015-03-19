@@ -63,7 +63,7 @@ Install openconnect through Ubuntu Software Centre or apt-get:
 - sudo apt-get update
 - sudo apt-get install openconnect
 
-### Setting
+### Settings
 
 - Gateway: remote.unimelb.edu.au/student
 - CA Certificate: (None)
