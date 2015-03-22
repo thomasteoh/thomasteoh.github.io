@@ -17,4 +17,8 @@ Instead, I opted to upgrade my <a href="http://www.about.me/tteoh">about.me acco
 
 I strongly believe that features like a custom domain name should really be put into the free plan, or combined as a promotion with a domain registrar (ie. register with us and we'll set up your about.me page here for free). That way, if someone registers for a website but doesn't know quite what to do with it yet, they can have a quick and easily set up profile. 
 
-Nevertheless, the entire process of claiming my domain name to having everything set up was automated to the point that all I needed to do was confirm my student account, and click on the provided link to go and claim my premium subscription for a year was extremely quick and easy. I'm very impressed, although I'll have to wait and see if anything fruitful comes out of it this year before deciding whether or not I would like to continue as a paying subscriber to these services. 
+Nevertheless, the entire process of claiming my domain name to having everything set up was automated to the point that all I needed to do was confirm my student account, and click on the provided link to go and claim my premium subscription for a year was extremely quick and easy. 
+
+Update: After getting featured as a staff pick on <a href="http://www.about.me">about.me</a>, my stats page is looking quite out of character:
+
+![about.me stats]({{ site.imgurl }}2015-03-20-namecheap-and-about-me.jpg)

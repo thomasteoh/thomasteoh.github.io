@@ -22,7 +22,7 @@ As eduroam appears to be present wherever a UniWireless access point is, it make
 
 ### Settings
 
-![Eduroam configuration settings]({{ site.baseurl }}public/images/2015-03-10-eduroam-settings.jpg)
+![Eduroam configuration settings]({{ site.imgurl }}2015-03-10-eduroam-settings.jpg)
 
 - SSID: eduroam
 - Mode: infrastructure

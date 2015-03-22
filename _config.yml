@@ -14,6 +14,7 @@ tagline:          'talking about things'
 description:      'A sporadically updated log about life as a veterinarian in research with a dog named Quaver.'
 url:              http://www.tteoh.com
 baseurl:          /
+imgurl:           /public/images/
 paginate:         5
 
 author:
