@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using data for 
+title: Using data to organise and generate page assets and resources
 comments: true
 category: technology
 ---
