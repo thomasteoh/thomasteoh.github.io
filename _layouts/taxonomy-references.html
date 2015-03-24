@@ -7,11 +7,17 @@ layout: default
     <h1>{{ reference.category }} (Order: {{ reference.order }})</h1>
     <p>{{ reference.description }}</p>
     {% for species in reference.species %}
-      <h2>{{ species.name }}</h2>
+      <h2><i>{{ species.name }}</i></h2>
       <p>{{ species.description }}</p>
+<span style="display:block; width:200px">
           <a href="{{ site.imgurl }}{{ page.title }}/{{ species.file }}">
           <img src="{{ site.imgurl }}{{ page.title }}/{{ species.file }}">
           </a>
+</span>
     {% endfor %}
   {% endif %}
 {% endfor %}
+
+<hr>
+
+<p align="center"><small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</small></p>

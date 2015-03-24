@@ -1,6 +1,6 @@
 - category: Fleas
   order: Siphonaptera
-  description: (Fleas description goes here)
+  description: Fleas are wingless obligate ectoparasites with mouthparts adapted for piercing the skin of their host to feed on blood. Below are some examples with relevance to veterinary health. 
   species:
   -  name: Ceratophyllus gallinae
      file: Ceratophyllus_gallinae-Poultry_flea.JPG
@@ -45,7 +45,7 @@
 
 - category: Lice
   order: Phthiraptera
-  description: (Lice description goes here)
+  description: Lice are wingless obligate ectoparasites of mammals and birds. Below are some examples with relevance to veterinary health.
   species:
   -  name: Columbicola columbae
      file: Columbicola_columbae.JPG
@@ -65,7 +65,7 @@
 
   -  name: Bovicola ovis
      file: Damalinia_ovis.JPG
-     description: The sheep body lous (formally known as Damalinia ovis)
+     description: The sheep body lous (formally known as <i>Damalinia ovis</i>)
 
   -  name: Goniocotes gallinae
      file: Goniocotes_gallinae-Poultry.JPG
