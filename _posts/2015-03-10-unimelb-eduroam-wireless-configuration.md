@@ -2,7 +2,7 @@
 layout: post
 title: Eduroam and UniWireless configuration settings for Linux at the University of Melbourne
 comments: true
-category: technology
+category: Technology
 ---
 
 The University of Melbourne participates in the <a href="http://www.eduroam.edu.au/">eduroam</a> system, a location independant wireless network. University students and staff are able to connect and securely authenticate to this network wherever there is participating wireless infrastructure (such as at other higher education institutions).Alongside this, on campus an internal wireless network, UniWireless, also operates. 

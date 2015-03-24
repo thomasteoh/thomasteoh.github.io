@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% for reference in site.data.taxonomy-references %}
+  {% if reference.category == page.title %}
+    <h1>{{ reference.category }} (Order: {{ reference.order }})</h1>
+    <p>{{ reference.description }}</p>
+    {% for species in reference.species %}
+      <h2>{{ species.name }}</h2>
+      <p>{{ species.description }}</p>
+          <a href="{{ site.imgurl }}{{ page.title }}/{{ species.file }}">
+          <img src="{{ site.imgurl }}{{ page.title }}/{{ species.file }}">
+          </a>
+    {% endfor %}
+  {% endif %}
+{% endfor %}

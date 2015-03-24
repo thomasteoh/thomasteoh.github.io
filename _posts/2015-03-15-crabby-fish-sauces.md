@@ -2,7 +2,7 @@
 layout: post
 title: Crab branded fish sauces (including Three Crabs Brand fish sauce)
 comments: true
-category: food
+category: Food
 ---
 
 For a while now, we have been using any fish sauce the local supermarket or asian grocery store has to offer. With no particular favourite, we were curious as to which one my aunt who's been living here in Melbourne for a number of years now uses. 

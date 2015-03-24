@@ -1,0 +1,140 @@
+- category: Fleas
+  order: Siphonaptera
+  description: (Fleas description goes here)
+  species:
+  -  name: Ceratophyllus gallinae
+     file: Ceratophyllus_gallinae-Poultry_flea.JPG
+     description: The hen flea, or European chicken flea in poultry
+
+  -  name: Ceratophyllus sp.
+     file: Ceratophyllus_sp-Larvae.JPG
+     description: Larval form of a bird flea
+
+  -  name: Ctenocephalides canis
+     file: Ctenocephalides_canis.JPG
+     description: The dog flea of dogs, cats and other mammals
+
+  -  name: Ctenocephalides felis
+     file: Ctenocephalides_felis.JPG
+     description: The cat flea of dogs, cats and other mammals
+
+  -  name: Echidnophaga gallinacea
+     file: Echidnophaga_gallinacea-Stick_Fast_Flea.JPG
+     description: Stick fast flea, or the hen flea of birds and mammals
+
+  -  name: Echidnophaga myrmecobii
+     file: Echidnophaga_myrmecobii.JPG
+     description: Stickfast flea of rabbits
+
+  -  name: Pulex irritans
+     file: Pulex_irritans.JPG
+     description: The human flea of pigs, humans and other mammals
+
+  -  name: Spillopsyllus cuniculi
+     file: Spillopsyllus_cuniculi.JPG
+     description: The rabbit flea of rabbits, hares and occasionally cats
+
+  -  name: Stephanocircus dasyuri
+     file: Stephanocircus_dasyuri-Bandicoot_Flea.JPG
+     description: The bandicoot flea
+
+  -  name: Xenopsylla cheopsis
+     file: Xenopsylla_cheopsis-Rat_Flea.JPG
+     description: The Oriental rat flea, or tropical rat flea of rodents
+
+
+- category: Lice
+  order: Phthiraptera
+  description: (Lice description goes here)
+  species:
+  -  name: Columbicola columbae
+     file: Columbicola_columbae.JPG
+     description: The slender pigeon louse
+
+  -  name: Bovicola bovis
+     file: Damalinia_bovis-ex_cattle.JPG
+     description: The red louse (formally known as <i>Damalinia bovis</i>) of cattle
+
+  -  name: Damalinia caprae
+     file: Damalinia_caprae.JPG
+     description: The biting louse of goats
+
+  -  name: Damalinia equi
+     file: Damalinia_equi.JPG
+     description: The horse biting louse of equids
+
+  -  name: Bovicola ovis
+     file: Damalinia_ovis.JPG
+     description: The sheep body lous (formally known as Damalinia ovis)
+
+  -  name: Goniocotes gallinae
+     file: Goniocotes_gallinae-Poultry.JPG
+     description: The poultry fluff louse
+
+  -  name: Haematopinus asini
+     file: Haematopinus_asini.JPG
+     description: The horse sucking louse of equids
+
+  -  name: Haematopinus eurysternus
+     file: Haematopinus_eurysternus-ex_cattle.JPG
+     description: The shortnosed cattle louse
+
+  -  name: Haematopinus suis
+     file: Haematopinus_suis-Pig_Louse.JPG
+     description: The hog louse of pigs and other mammals
+
+  -  name: Haematopinus tuberculatus
+     file: Haematopinus_tuberculatus.JPG
+     description: The sucking louse of water buffalo
+
+  -  name: Heterodoxus spiniger
+     file: Heterodoxus_spiniger.JPG
+     description: The chewing louse of dogs
+
+  -  name: Linognathus ovillus
+     file: Linognathus_ovillus-ex_sheep.JPG
+     description: The face louse of sheep
+
+  -  name: Linognathus setosus
+     file: Linognathus_setosus-ex_dog.JPG
+     description: The sucking louse of dogs
+
+  -  name: Linognathus stenopsis
+     file: Linognathus_stenopsis.JPG
+     description: The sucking louse of goats
+
+  -  name: Linognathus vituli
+     file: Linognathus_vituli-ex_cattle.JPG
+     description: The longnosed cattle louse
+
+  -  name: Lipeurus caponsis
+     file: Lipeurus_caponsis.JPG
+     description: The poultry wing louse
+
+  -  name: Menacanthus stramineus
+     file: Menacanthus_stramineus.JPG
+     description: The chicken body louse
+
+  -  name: Pediculus capitis
+     file: Pediculus_capitis-ex_human.JPG
+     description: The head louse of humans
+
+  -  name: Pediculus humanus
+     file: Pediculus_humanus.JPG
+     description: The body louse of humans
+
+  -  name: Phthirus pubis
+     file: Phthirus_pubis.JPG
+     description: The crab louse, or pubic louse of humans
+
+  -  name: Polyplax serrata
+     file: Polyplax_serrata-ex_mouse.JPG
+     description: The house mouse louse of mice
+
+  -  name: Solenopotes capillatus
+     file: Solenopotes_capillatus-Cattle_Louse.JPG
+     description: The little blud cattle louse
+
+  -  name: Trichodectes canis
+     file: Trichodectes_canis-ex_dog.JPG
+     description: The canine chewing louse

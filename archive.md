@@ -3,34 +3,15 @@ layout: page
 title: Archive
 ---
 
-## Animals
-{% for post in site.posts %}
-  {% if post.category == "animals" %}
-  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
-  {% else %}
-  {% endif %}
-{% endfor %}
+{% for category in site.data.categories %}
 
-## Food
-{% for post in site.posts %}
-  {% if post.category == "food" %}
-  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
-  {% else %}
-  {% endif %}
-{% endfor %}
+## {{ category.name }}
 
-## Science
-{% for post in site.posts %}
-  {% if post.category == "science" %}
+  {% for post in site.posts %}
+    {% if post.category == category.name %}
   <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
-  {% else %}
-  {% endif %}
-{% endfor %}
+    {% else %}
+    {% endif %}
+  {% endfor %}
 
-## Technology
-{% for post in site.posts %}
-  {% if post.category == "technology" %}
-  <small>{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a></small>
-  {% else %}
-  {% endif %}
 {% endfor %}

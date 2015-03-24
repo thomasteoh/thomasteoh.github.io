@@ -1,0 +1,20 @@
+- name: Gracify
+  address: "http://www.gracify.co"
+  address-text: gracify.co
+  contact: "mailto:hello@gracify.co"
+  contact-text: email
+  description: Gracify Co is a media & design studio based in Sydney, specialising in branding, animation/VFX and web design.
+
+- name: Postgraduates of Veterinary Science (POVS)
+  address: "http://www.facebook.com/groups/Vetscience/"
+  address-text: Facebook
+  contact: "mailto: povs.vetscience@gmail.com"
+  contact-text: email
+  description: A group for all research higher degree students within the University of Melbourne, Veterinary and Agricultural Sciences faculty (PhD and Masters).
+
+- name: UQAttic
+  address: "https://www.uqattic.net"
+  address-text: UQAttic
+  contact: "http://webchat.oftc.net/?channels=attichelp%2Cattic"
+  contact-text: IRC
+  description: The UQAttic community is growing as the unofficial chat service for UQ.

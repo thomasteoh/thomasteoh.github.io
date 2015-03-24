@@ -2,7 +2,7 @@
 layout: post
 title: Switching from Endnote to Zotero
 comments: true
-category: science
+category: Science
 ---
 
 In my undergraduate years, I made good use of a very popular citation manager, [Endnote](http://endnote.com/). The purpose of such programs is to manage citations and literature (in my case, mostly journal articles), and provide references which are automatically formatted to be used in a bibliography. 

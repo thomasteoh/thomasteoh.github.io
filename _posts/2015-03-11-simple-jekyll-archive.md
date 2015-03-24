@@ -2,7 +2,7 @@
 layout: post
 title: Creating a simple archive for posts in jekyll
 comments: true
-category: technology
+category: Technology
 ---
 
 Because jekyll parses markdown when generating your static site, you can make use of javascript and variables to create a simple, customisable archive of all your posts. 
