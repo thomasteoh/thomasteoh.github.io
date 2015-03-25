@@ -9,6 +9,6 @@ Heaps of changes in this update; I've recently discovered the [_data feature](ht
 
 <!--break-->
 
-I've also added a [Resources section]({{ site.baseurl }}) for any reference material I might happen to have the chance to collect. As much of my life is currently taken up by research, much will likely be related to veterinary science or parasitology. Not that thats a bad thing of course (who isn't into pictures of bugs!)
+I've also added a [Resources section]({{ site.baseurl }}resources}) for any reference material I might happen to have the chance to collect. As much of my life is currently taken up by research, much will likely be related to veterinary science or parasitology. Not that thats a bad thing of course (who isn't into pictures of bugs!)
 
 To create an easily managed system, I based my implementation on an image gallery [here](http://christianspecht.de/2014/03/08/generating-an-image-gallery-with-jekyll-and-lightbox2/). While there are some things I don't need, such as fancy lightbox scripts, the usage of data files is very suitable because of how extensible they are. 

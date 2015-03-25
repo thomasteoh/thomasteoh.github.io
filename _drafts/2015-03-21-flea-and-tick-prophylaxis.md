@@ -9,7 +9,7 @@ Theres a wide and varied range of products available today for the treatment and
 
 <!--break-->
 
-Spot on
+Spot ons
 Spray
 Tablets
 Collars
