@@ -3,43 +3,43 @@
   description: Fleas are wingless obligate ectoparasites with mouthparts adapted for piercing the skin of their host to feed on blood. Below are some examples with relevance to veterinary health. 
   species:
   -  name: Ceratophyllus gallinae
-     file: Ceratophyllus_gallinae-Poultry_flea.JPG
+     file: Ceratophyllus-gallinae.jpg
      description: The hen flea, or European chicken flea in poultry
 
   -  name: Ceratophyllus sp.
-     file: Ceratophyllus_sp-Larvae.JPG
+     file: Ceratophyllus-sp.jpg
      description: Larval form of a bird flea
 
   -  name: Ctenocephalides canis
-     file: Ctenocephalides_canis.JPG
+     file: Ctenocephalides-canis.jpg
      description: The dog flea of dogs, cats and other mammals
 
   -  name: Ctenocephalides felis
-     file: Ctenocephalides_felis.JPG
+     file: Ctenocephalides-felis.jpg
      description: The cat flea of dogs, cats and other mammals
 
   -  name: Echidnophaga gallinacea
-     file: Echidnophaga_gallinacea-Stick_Fast_Flea.JPG
+     file: Echidnophaga-gallinacea.jpg
      description: Stick fast flea, or the hen flea of birds and mammals
 
   -  name: Echidnophaga myrmecobii
-     file: Echidnophaga_myrmecobii.JPG
+     file: Echidnophaga-myrmecobii.jpg
      description: Stickfast flea of rabbits
 
   -  name: Pulex irritans
-     file: Pulex_irritans.JPG
+     file: Pulex-irritans.jpg
      description: The human flea of pigs, humans and other mammals
 
   -  name: Spillopsyllus cuniculi
-     file: Spillopsyllus_cuniculi.JPG
+     file: Spillopsyllus-cuniculi.jpg
      description: The rabbit flea of rabbits, hares and occasionally cats
 
   -  name: Stephanocircus dasyuri
-     file: Stephanocircus_dasyuri-Bandicoot_Flea.JPG
+     file: Stephanocircus-dasyuri.jpg
      description: The bandicoot flea
 
   -  name: Xenopsylla cheopsis
-     file: Xenopsylla_cheopsis-Rat_Flea.JPG
+     file: Xenopsylla-cheopsis.jpg
      description: The Oriental rat flea, or tropical rat flea of rodents
 
 
@@ -48,93 +48,207 @@
   description: Lice are wingless obligate ectoparasites of mammals and birds. Below are some examples with relevance to veterinary health.
   species:
   -  name: Columbicola columbae
-     file: Columbicola_columbae.JPG
+     file: Columbicola-columbae.jpg
      description: The slender pigeon louse
 
   -  name: Bovicola bovis
-     file: Damalinia_bovis-ex_cattle.JPG
+     file: Damalinia-bovis.jpg
      description: The red louse (formally known as <i>Damalinia bovis</i>) of cattle
 
   -  name: Damalinia caprae
-     file: Damalinia_caprae.JPG
+     file: Damalinia-caprae.jpg
      description: The biting louse of goats
 
   -  name: Damalinia equi
-     file: Damalinia_equi.JPG
+     file: Damalinia-equi.jpg
      description: The horse biting louse of equids
 
   -  name: Bovicola ovis
-     file: Damalinia_ovis.JPG
+     file: Damalinia-ovis.jpg
      description: The sheep body lous (formally known as <i>Damalinia ovis</i>)
 
   -  name: Goniocotes gallinae
-     file: Goniocotes_gallinae-Poultry.JPG
+     file: Goniocotes-gallinae.jpg
      description: The poultry fluff louse
 
   -  name: Haematopinus asini
-     file: Haematopinus_asini.JPG
+     file: Haematopinus-asini.jpg
      description: The horse sucking louse of equids
 
   -  name: Haematopinus eurysternus
-     file: Haematopinus_eurysternus-ex_cattle.JPG
+     file: Haematopinus-eurysternus.jpg
      description: The shortnosed cattle louse
 
   -  name: Haematopinus suis
-     file: Haematopinus_suis-Pig_Louse.JPG
+     file: Haematopinus-suis.jpg
      description: The hog louse of pigs and other mammals
 
   -  name: Haematopinus tuberculatus
-     file: Haematopinus_tuberculatus.JPG
+     file: Haematopinus-tuberculatus.jpg
      description: The sucking louse of water buffalo
 
   -  name: Heterodoxus spiniger
-     file: Heterodoxus_spiniger.JPG
+     file: Heterodoxus-spiniger.jpg
      description: The chewing louse of dogs
 
   -  name: Linognathus ovillus
-     file: Linognathus_ovillus-ex_sheep.JPG
+     file: Linognathus-ovillus.jpg
      description: The face louse of sheep
 
   -  name: Linognathus setosus
-     file: Linognathus_setosus-ex_dog.JPG
+     file: Linognathus-setosus.jpg
      description: The sucking louse of dogs
 
   -  name: Linognathus stenopsis
-     file: Linognathus_stenopsis.JPG
+     file: Linognathus-stenopsis.jpg
      description: The sucking louse of goats
 
   -  name: Linognathus vituli
-     file: Linognathus_vituli-ex_cattle.JPG
+     file: Linognathus-vituli.jpg
      description: The longnosed cattle louse
 
   -  name: Lipeurus caponsis
-     file: Lipeurus_caponsis.JPG
+     file: Lipeurus-caponsis.jpg
      description: The poultry wing louse
 
   -  name: Menacanthus stramineus
-     file: Menacanthus_stramineus.JPG
+     file: Menacanthus-stramineus.jpg
      description: The chicken body louse
 
   -  name: Pediculus capitis
-     file: Pediculus_capitis-ex_human.JPG
+     file: Pediculus-capitis.jpg
      description: The head louse of humans
 
   -  name: Pediculus humanus
-     file: Pediculus_humanus.JPG
+     file: Pediculus-humanus.jpg
      description: The body louse of humans
 
   -  name: Phthirus pubis
-     file: Phthirus_pubis.JPG
+     file: Phthirus-pubis.jpg
      description: The crab louse, or pubic louse of humans
 
   -  name: Polyplax serrata
-     file: Polyplax_serrata-ex_mouse.JPG
+     file: Polyplax-serrata.jpg
      description: The house mouse louse of mice
 
   -  name: Solenopotes capillatus
-     file: Solenopotes_capillatus-Cattle_Louse.JPG
+     file: Solenopotes-capillatus.jpg
      description: The little blud cattle louse
 
   -  name: Trichodectes canis
-     file: Trichodectes_canis-ex_dog.JPG
+     file: Trichodectes-canis.jpg
      description: The canine chewing louse
+
+
+- category: Ticks
+  order: Parasitiformes
+  description: Ticks are ectoparasites, generally grouped as either hard (Ixodidae) or soft (Argasidae). 
+  species:
+  -  name: Amblyomma triguttatum
+     file: Amblyomma-triguttatum-dorsum.jpg
+     description: Dorsal, and two ventral aspects of the kangaroo tick
+     bonusimg:
+     -  file: Amblyomma-triguttatum-venter2.jpg
+     -  file: Amblyomma-triguttatum-venter.jpg
+
+  -  name: Amblyomma variegatum
+     file: Amblyomma-variegatum-dorsum.jpg
+     description: the tropical bont tick of livestock and other animals in Africa Dorsal and ventral aspects
+     bonusimg:
+     -  file: Amblyomma-variegatum-venter.jpg
+
+  -  name: Aponomma auruginans
+     file: Aponomma-auruginans-engorged-dorsum.jpg
+     description: A tick of wombats and other marsupials in Australia. Dorsal and ventral aspects
+     bonusimg:
+     -  file: Aponomma-auruginans-engorged-venter.jpg
+
+  -  name: Argas persicus
+     file: Argas-persicus-dorsum.jpg
+     description: The fowl tick or poultry tick of domestic fowl and poultry. Dorsal and ventral aspects
+     bonusimg: 
+     -  file: Argas-persicus-venter.jpg
+
+  -  name: Rhipicephalus microplus
+     file: Boophilus-microplus-dorsum.jpg
+     description: Formally <i>Boophilus microplus</i> of livestock. Dorsal and ventral aspects, along with microscopy
+     bonusimg: 
+     -  file: Boophilus-microplus-venter.jpg
+     -  file: Boophilus-microplus-microscopy.jpg
+
+  -  name: Dermacentor albipictus
+     file: Dermacentor-albipictus-dorsum.jpg
+     description: The winter tick of moose in north America. Dorsal and ventral aspects. NB specimen is damaged
+     bonusimg: 
+     -  file: Dermacentor-albipictus-venter.jpg
+
+  -  name: Dermacentor andersoni
+     file: Dermacentor-andersoni-dorsum.jpg
+     description: The Rocky Mountain wood tick of north America. Can cause paralysis. Dorsal and ventral aspects
+     bonusimg: 
+     -  file: Dermacentor-andersoni-venter.jpg
+
+  -  name: Haemaphysalis longicornis
+     file: Haemaphysalis-longicornis-dorsum.jpg
+     description: The scrub tick, or bush tick, or New Zealand cattle tick of livestock. Dorsal and ventral aspects
+     bonusimg: 
+     -  file: Haemaphysalis-longicornis-venter.jpg
+
+  -  name: Hyalomma sp.
+     file: Hyalomma-sp-dorsum.jpg
+     description: A genus of ticks of livestock. Dorsal and ventral aspects. NB specimen is damaged
+     bonusimg: 
+     -  file: Hyalomma-sp-venter.jpg
+
+  -  name: Ixodes cornuatus
+     file: Ixodes-cornuatus-microscope.jpg
+     description: The Tasmanian paralysis tick. Can cause paralysis. Microscopy
+
+  -  name: Ixodes hirsti
+     file: Ixodes-hirsti-venter.jpg
+     description: Hirst's marsupial tick of Australia. Ventral aspect
+
+  -  name: Ixodes holocyclus
+     file: Ixodes-holocyclus-dorsum.jpg
+     description: The paralysis tick. Can cause paralysis. Dorsal and ventral aspects, along with a few life stages (larva, nymph)
+     bonusimg: 
+     -  file: Ixodes-holocyclus-venter.jpg 
+     -  file: Ixodes-holocyclus-larva.jpg 
+     -  file: Ixodes-holocyclus-microscope.jpg
+     -  file: Ixodes-holocyclus-nymph.jpg 
+
+  -  name: Ixodes kholsi
+     file: Ixodes-kholsi-larva.jpg
+     description: Larval and nymph life stages
+     bonusimg: 
+     -  file: Ixodes-kholsi-nymph.jpg
+
+  -  name: Ixodes tasmani
+     file: Ixodes-tasmani-microscope.jpg
+     description: Microscopy
+
+
+  -  name: Ornithodoras gurneyi
+     file: Ornithodoras-gurneyi-dorsum.jpg
+     description: The kangaroo soft tick of Australia. Dorsal and ventral aspects
+     bonusimg: 
+     -  file: Ornithodoras-gurneyi-venter.jpg
+
+  -  name: Otobius megnini
+     file: Otobius-megnini-dorsum.jpg
+     description: The spinose ear tick of domestic animals. Only parasitic in larval and nymphal stages. Dorsal and ventral aspects
+     bonusimg: 
+     -  file: Otobius-megnini-venter.jpg
+
+  -  name: Rhipicephalus sanguineus
+     file: Rhipicephalus-sanguineus-dorsum2.jpg
+     description: The brown dog tick. Dorsal and ventral aspect, as well as microscopy
+     bonusimg: 
+     -  file: Rhipicephalus-sanguineus-dorsum.jpg
+     -  file: Rhipicephalus-sanguineus-venter2.jpg
+     -  file: Rhipicephalus-sanguineus-venter.jpg
+     -  file: Rhipicephalus-sanguineus-microscope.jpg
+
+  -  name: </i>Tick eggs
+     file: tick-eggs.jpg
+     description: Eggs of ticks
