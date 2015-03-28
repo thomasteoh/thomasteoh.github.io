@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:            Thomas Teoh
-tagline:          'talking about things'
-description:      'A sporadically updated log about life as a veterinarian in research with a dog named Quaver.'
+tagline:          'veterinarian, postgraduate student, dabbles in other things'
+description:      'A sporadically updated website about life as a veterinarian in research with a dog named Quaver.'
 url:              http://www.tteoh.com
 baseurl:          /
 imgurl:           /public/images/
