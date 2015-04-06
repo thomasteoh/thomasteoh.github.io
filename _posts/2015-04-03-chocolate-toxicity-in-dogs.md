@@ -31,7 +31,7 @@ Chocolate toxicity has a spectrum of effects in dogs that includes the following
 - Tremors
 - Vomiting
 
-Additionally, effects on the cardiovascular system can be noted. It should be noted that this is not a comprehensive list, and an affected animal may only show a select few signs.
+Additionally, effects on the cardiovascular system can be noted. This is not a comprehensive list, and an affected animal may only show a select few signs.
 
 ## Treatment
 

@@ -252,3 +252,79 @@
   -  name: </i>Tick eggs
      file: tick-eggs.jpg
      description: Eggs of ticks
+
+- category: Mites
+  order: Sarcoptiformes and Trombidiformes
+  description: Extremely small arthropod ectoparasites of mammals. 
+  species:
+  -  name: Cheyletiella parasitivorax
+     file: Cheyletiella-parasitivorax.jpg
+     description: The rabbit fur mite of rabbits
+
+  -  name: Cheyletiella sp.
+     file: Cheyletiella-sp.jpg
+     description: <i>Cheyletiella</i> sp. mite; the members of this genus are reponsible for conditions such as walking dandruff
+
+  -  name: Chorioptes bovis
+     file: Chorioptes-bovis.jpg
+     description: The leg mange mite of cattle, can affect sheep and goats
+
+  -  name: Cnemidocoptes pilae
+     file: Cnemidocoptes-pilae.jpg
+     description: The scaly face/leg mite of budgerigars and other psitticines
+
+  -  name: Cytodites nudus
+     file: Cytodites-nudus.jpg
+     description: The air sac mite of chickens and other birds
+
+  -  name: Demodex sp. </i>histology
+     file: Demodex-sp-histo1.jpg
+     description: Demodex sp. histology along with normal dog skin
+     bonusimg: 
+     -  file: Demodex-sp-histo2.jpg
+     -  file: normal-dog-skin.jpg
+
+  -  name: Dermanyssus gallinae
+     file: Dermanyssus-gallinae.jpg
+     description: The red poultry mite of chickens and other birds
+
+  -  name: Guntheria sp.
+     file: Guntheria-sp.jpg
+     description: A specimen of an Australian chigger mite.
+
+  -  name: Myocoptes musculinus
+     file: Myocoptes-musculinus.jpg
+     description: A mite of mice.
+
+  -  name: Ophionyssus natricis
+     file: Ophionyssus-natricis.jpg
+     description: The reptile mite of snakes and other reptiles
+
+  -  name: Ornithonyssus bursa
+     file: Ornithonyssus-bursa.jpg
+     description: The tropical fowl mite of birds
+
+  -  name: Ornithonyssus sylvarum
+     file: Ornithonyssus-sylvarum.jpg
+     description: The northern fowl mite of birds
+
+  -  name: Otodectes cyanotis
+     file: Otodectes-cyanotis1.jpg
+     description: The ear mite of dogs, cats, wild canids and ferrets
+     bonusimg: 
+     -  file: Otodectes-cyanotis2.jpg
+
+  -  name: Psoroptes cuniculi
+     file: Psoroptes-cuniculi1.jpg
+     description: The ear mite of rabbits 
+     bonusimg: 
+     -  file: Psoroptes-cuniculi2.jpg
+
+  -  name: Sarcoptes scabiei
+     file: Sarcoptes-scabiei1.jpg
+     description: The itch mite of canids and other mammals
+     bonusimg: 
+     -  file: Sarcoptes-scabiei2.jpg
+     -  file: Sarcoptes-sp-histo1.jpg
+     -  file: Sarcoptes-sp-histo2.jpg
+
