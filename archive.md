@@ -5,7 +5,7 @@ title: Archive
 
 {% for category in site.data.categories %}
 
-## {{ category.name }}
+## <small><span class="glyphicon glyphicon-{{ category.icon }}" aria-hidden="true"></span></small> {{ category.name }}
 
   {% for post in site.posts %}
     {% if post.category == category.name %}

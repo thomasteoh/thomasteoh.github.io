@@ -1,4 +1,8 @@
 - name: Food
+  icon: cutlery
 - name: Science
+  icon: compressed
 - name: Technology
+  icon: wrench
 - name: Veterinary
+  icon: piggy-bank

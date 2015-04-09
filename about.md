@@ -9,17 +9,17 @@ I have a dog named Quaver, who is great company and keeps life interesting, and 
 
 ## Contact Information
 
-Email:
+<small><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></small> Email:
 
 * <a href="mailto:me@tteoh.com">me@tteoh.com</a>
 
-Social Networks:
+<small><span class="glyphicon glyphicon-user" aria-hidden="true"></span></small> Social Networks:
 
 * [Facebook](http://www.facebook.com/tteoh)
 * [Twitter](http://www.twitter.com/tteoh)
 * [Google+](http://www.google.com/+ThomasTeoh)
 
-Professional Networks:
+<small><span class="glyphicon glyphicon-education" aria-hidden="true"></span></small> Professional Networks:
 
 * [ResearchGate](http://www.researchgate.net/profile/Yen_Thon_Thomas_Teoh)
 

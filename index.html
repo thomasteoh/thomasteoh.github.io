@@ -11,7 +11,7 @@ title: Home
   <div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
     {{ post.content | split:'<!--break-->' | first }}
       {% if post.content contains '<!--break-->' %}
-        <a href="{{ post.url }}">read more</a>
+        <a class="read-more" href="{{ post.url }}"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> read more</a>
       {% endif %}
   </div>
   <hr>
@@ -19,17 +19,17 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}"><small><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span></small> Older</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older"><small><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span></small> Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer <small><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></small></a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer <small><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></small></a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Newer <small><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></small></span>
   {% endif %}
 </div>

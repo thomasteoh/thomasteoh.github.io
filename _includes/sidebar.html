@@ -12,7 +12,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -23,12 +23,13 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}"><span class="glyphicon glyphicon-tteoh-{{ node.title }}" aria-hidden="true"></span> {{ node.title }}</span></a>
         {% endif %}
       {% endif %}
     {% endfor %}
+
     <span class="sidebar-nav-item">
-      <a href="mailto:me@tteoh.com">Email</a> &middot; <a href="{{ site.baseurl }}atom.xml">Feed</a>
+      <a href="mailto:me@tteoh.com"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a> &middot; <a href="{{ site.baseurl }}atom.xml"><span class="glyphicon glyphicon-fire" aria-hidden="true"></span></a>
     </span>
 
   </div>
