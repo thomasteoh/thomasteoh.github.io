@@ -15,17 +15,17 @@ span.navbar-icon {
 }
 
 .glyphicon-tteoh-About:before {
-  content: "\e086";
+  content: "\e008";
 }
 
 .glyphicon-tteoh-Archive:before {
-  content: "\e118";
+  content: "\e023";
 }
 
 .glyphicon-tteoh-Related:before {
-  content: "\e006";
+  content: "\e044";
 }
 
 .glyphicon-tteoh-Resources:before {
-  content: "\e218";
+  content: "\e043";
 }
