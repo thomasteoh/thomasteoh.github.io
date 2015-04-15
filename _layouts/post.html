@@ -4,7 +4,7 @@ layout: default
 
 <div class="post" itemscope itemtype="http://schema.org/Article">
   <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
-  <span class="post-date"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ page.date | date_to_string }} &middot; <span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ page.category }}</span>
+  <span class="post-date"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ page.date | date: "%Y/%m/%d" }} &middot; <span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ page.category }}</span>
   <meta itemprop="author" content="{{ site.author.name }}">
   <meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
   <span itemprop="text">{{ content }}</span>
