@@ -7,7 +7,10 @@ layout: default
     <h1>{{ reference.category }} (Order: {{ reference.order }})</h1>
     <p>{{ reference.description }}</p>
     {% for species in reference.species %}
-      <h2><i>{{ species.name }}</i></h2>
+      <details>
+        <summary>
+          <h2><i>{{ species.name }}</i> <small><span class="glyphicon glyphicon-search" aria-hidden="true"></span></small></h2>
+        </summary>
       <p>{{ species.description }}</p>
 <span style="display:block; width:200px">
           <a href="{{ site.imgurl }}{{ page.title }}/{{ species.file }}">
@@ -18,9 +21,9 @@ layout: default
             <img src="{{ site.imgurl }}{{ page.title }}/{{ img.file }}">
             </a>
           {% endfor %}
-
-</span>
-      <br>
+          </span>
+        <br>
+      </details>
     {% endfor %}
   {% endif %}
 {% endfor %}
