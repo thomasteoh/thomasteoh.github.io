@@ -35,6 +35,8 @@ My main was, of course, the nasi lemak. Theres a little bit of choice to be had 
 
 One of the main reasons why I've liked nasi lemak, growing up, was the variety of sides included in the one dish. Roti Road's offering has the following (clockwise): sambal (a chilli-based sauce) prawns, sambal egg, cucumbers, peanuts, ikan bilis (dried anchovies), and my selection of curry (beef rendang). This is well complimented by the coconut rice, the richness of the coconut milk/cream likely giving the "lemak" quality to the nasi (rice). 
 
+One curious quality about the rice that I noted was that it seemed like salt was sprinkled over the top of it. Its the first time I've tried it like this, and can't help wondering if it was perhaps done by accident. 
+
 It should be noted that some of the curries and sauces can be quite spicy, but Roti Road's rendition was very much on the milder side, which should open it up to suiting a wider audience. A good trick to try is having something milk- or cream-based afterwards if you're not coping so well. Its also a good excuse to order dessert.
 
 ![Roti pisang](https://lh4.googleusercontent.com/-6r_MCxqKxr0/VTCtxpLjFqI/AAAAAAAAHYs/J_3h3PLN5sw/w981-h583-no/IMG_20150227_195229349_HDR.jpg)
