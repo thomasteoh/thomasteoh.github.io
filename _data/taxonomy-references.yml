@@ -290,7 +290,7 @@
 
   -  name: Guntheria sp.
      file: Guntheria-sp.jpg
-     description: A specimen of an Australian chigger mite.
+     description: A specimen of an Australian chigger mite
 
   -  name: Myocoptes musculinus
      file: Myocoptes-musculinus.jpg
@@ -328,3 +328,61 @@
      -  file: Sarcoptes-sp-histo1.jpg
      -  file: Sarcoptes-sp-histo2.jpg
 
+- category: Trichostrongyles
+  order: Strongylida
+  description: Trichostrongyles are a group of nematodes, or round worms, that are associated with parasitic infection of animals and humans
+  species:
+  -  name: Cooperia sp
+     file: Cooperia-sp-anterior.jpg
+     description: Roundworms of cattle and small ruminants. Pictured below are anterior section, genital pore, spicules
+     bonusimg:
+     -  file: Cooperia-sp-genital-pore.jpg
+     -  file: Cooperia-sp-spicules.jpg
+
+  -  name: Haemonchus contortus
+     file: Haemonchus-contortus-anterior.jpg
+     description: The barber's pole worm of ruminants. Pictured below are anterior segment, barber pole appearance of gut and reproductive organs, cervical papillae, barbed spicules, vulvar flap
+     bonusimg:
+     -  file: Haemonchus-contortus-barbers-pole.jpg
+     -  file: Haemonchus-contortus-cervical-papillae.jpg
+     -  file: Haemonchus-contortus-spicules-barbed.jpg
+     -  file: Haemonchus-contortus-spicules.jpg
+     -  file: Haemonchus-contortus-vulvar-flap.jpg
+
+  -  name: Nematodirus sp
+     file: Nematodirus-sp-anterior.jpg
+     description: The thin-necked intestinal worm of sheep. Pictured below are anterior section, eggs, spicules
+     bonusimg:
+     -  file: Nematodirus-sp-eggs.jpg
+     -  file: Nematodirus-sp-spicules.jpg
+
+  -  name: Ostertagia circumcincta
+     file: Ostertagia-circumcincta-anterior.jpg
+     description: The brown stomach worm of sheep. Pictured below are anterior segment, spicules, vulvar flap
+     bonusimg:
+     -  file: Ostertagia-circumcincta-spicules.jpg
+     -  file: Ostertagia-circumcincta-vulvar-flap.jpg
+
+  -  name: Serratospiculum sp
+     file: Serratospiculum-sp-histology-1.jpg
+     description: Roundworms of falcons. Histological sections
+     bonusimg:
+     -  file: Serratospiculum-sp-histology-2.jpg
+
+  -  name: Trichostrongylus axei
+     file: Trichostrongylus-axei-spicules-gubernaculum.jpg
+     description: The stomach hair worm of cattle. Note spicules and gubernaculum
+
+  -  name: Trichostrongylus colubriformis
+     file: Trichostrongylus-colubriformis-spicules.jpg
+     description: A black scour worm of sheep. Note spicules
+
+  -  name: Trichostrongylus rugatus
+     file: Trichostrongylus-rugatus-spicules-gubernaculum.jpg
+     description: Roundworm of sheep. Note spicules and gubernaculum
+
+  -  name: Trichostrongylus vitrinus
+     file: Trichostrongylus-vitrinus-anterior.jpg
+     description: A black scour worm of sheep. Picture below are anterior section, spicules
+     bonusimg:
+     -  file: Trichostrongylus-vitrinus-spicules.jpg
