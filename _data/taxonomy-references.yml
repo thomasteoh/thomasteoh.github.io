@@ -328,9 +328,9 @@
      -  file: Sarcoptes-sp-histo1.jpg
      -  file: Sarcoptes-sp-histo2.jpg
 
-- category: Trichostrongyles
+- category: Nematodes
   order: Strongylida
-  description: Trichostrongyles are a group of nematodes, or round worms, that are associated with parasitic infection of animals and humans
+  description: Nematodes, also known as round worms, are associated with parasitic infection of animals and humans
   species:
   -  name: Cooperia sp
      file: Cooperia-sp-anterior.jpg

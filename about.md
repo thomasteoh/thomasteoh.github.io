@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-I'm a PhD student within the parasitology group at the Faculty of Veterinary and Agricultural Sciences, the [University of Melbourne, Australia](http://www.unimelb.edu.au). My field of study focuses on a zoonotic microorganism named *Rickettsia felis*, which causes flea-borne spotted fever in humans. It's pretty interesting stuff!
+I'm a veterinarian and PhD candidate within the parasitology group at the Faculty of Veterinary and Agricultural Sciences, the [University of Melbourne, Australia](http://www.unimelb.edu.au). My field of study focuses on a zoonotic microorganism named *Rickettsia felis*, which causes flea-borne spotted fever in humans. It's pretty interesting stuff!
 
-I have a dog named Quaver, who is great company and keeps life interesting, and I enjoy dabbling in technology. Below are a few ways of getting in touch with me.
+I have a dog named [Quaver]({% post_url 2015-02-27-introducing-quaver %}), who is great company and keeps life interesting. My hobbies include eating, and I enjoy dabbling in technology. Below are a few ways of getting in touch with me.
 
 ## Contact Information
 
