@@ -17,7 +17,7 @@ Gyoza Douraku is located on the east side of the city, within an easy walk from 
 
 Internally, the restaurant has a Japanese-esq styling with a subtly lit dining area split amongst multiple floors. Seating space is ample within the booths, although at the bar it appeared to be a little more cramped (which may or may not be preferral depending on individual preference on atmostphere). If you're planning on ordering lots of food, having a table is definitely an advantage though, as the multitude of dishes do end up taking up plenty of space. 
 
-Staff are present, but appear very busy. Throughout dinner, they were mostly polite but curt, somewhat different to our previous experiences at other Japanese restaurants. That being said, our food and drinks came out quickly, and we had no particular issues in general. Perhaps they were busy on the day we had dinner. 
+Staff are present, but appear very busy. Throughout dinner, they were mostly polite but curt, somewhat different to our previous experiences at other Japanese restaurants. Additionally, they didn't appear to have many menus on hand, our table having to wait for other diners to finish perusing and ordering before receiving a set. That being said, our food and drinks came out quickly, and we had no particular issues with it in general. Perhaps they were busy on the day we had dinner. 
 
 ## Food
 
