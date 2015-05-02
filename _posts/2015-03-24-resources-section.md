@@ -5,7 +5,7 @@ comments: true
 category: technology
 ---
 
-Heaps of changes in this update; I've recently discovered the [_data feature](http://jekyllrb.com/docs/datafiles/) of [jekyll](jekyllrb.com), and have put this to use by updating the related pages and archive sections. This way any updates can be done via data files and layout changes will propagate automatically throughout all entries without my having to change every single one.
+Heaps of changes in this update; I've recently discovered the [_data feature](http://jekyllrb.com/docs/datafiles/) of [jekyll](http://www.jekyllrb.com), and have put this to use by updating the related pages and archive sections. This way any updates can be done via data files and layout changes will propagate automatically throughout all entries without my having to change every single one.
 
 <!--break-->
 
