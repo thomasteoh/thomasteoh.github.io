@@ -11,7 +11,7 @@ git commit
 git push origin master
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! test This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
 
 <div class="posts">
