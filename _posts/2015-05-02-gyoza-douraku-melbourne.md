@@ -13,7 +13,8 @@ One of the great things about Melbourne is the wonderful variety of internationa
 
 Gyoza Douraku is located on the east side of the city, within an easy walk from the main shopping areas around Bourke Street mall. As a result of this, much of the after-work and dinnertime bustle is left behind at Swanston Street. Its definitely something to appreciate, and is especially nice if you're looking for a relatively quiet part of the city to meet friends or colleagues, or have a romantic night out. 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12608.113218366303!2d144.968972!3d-37.812806!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x304d9e5929ca8051!2sGyoza+Douraku!5e0!3m2!1sen!2sau!4v1430569438620" width="700" height="500" frameborder="0" style="border:0"></iframe>
+<a href="https://www.google.com/maps/place/Gyoza+Douraku/@-37.812806,144.968972,14z/data=!4m2!3m1!1s0x0:0x304d9e5929ca8051!6m1!1e1?hl=en-US"><img src="https://maps.googleapis.com/maps/api/staticmap?center=-37.812806,144.968972&zoom=16&size=600x300&maptype=roadmap
+&markers=color:blue|-37.812806,144.968972" /></a>
 
 Internally, the restaurant has a Japanese-esq styling with a subtly lit dining area split amongst multiple floors. Seating space is ample within the booths, although at the bar it appeared to be a little more cramped (which may or may not be preferral depending on individual preference on atmostphere). If you're planning on ordering lots of food, having a table is definitely an advantage though, as the multitude of dishes do end up taking up plenty of space. 
 

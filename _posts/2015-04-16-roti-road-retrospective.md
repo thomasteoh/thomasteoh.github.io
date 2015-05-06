@@ -11,7 +11,12 @@ After an eventful evening of trying to fix a light (saga ongoing), we decided to
 
 ## The restaurant
 
-Roti Road is located on the main street in Footscray, a short walk down Barkly street from Footscray train station and the markets. It bills itself as "Malaysian Chinese" cuisine, even though it's namesake, Roti, has origins in the Indian subcontinent, and they don't serve a number of popular nyonya dishes like otak otak and and asam laksa. Instead, they offer a sizeable menu that focuses on a few items within each category, and even seem to open for yum cha during the daytime. Its a good approach, as they can focus on delivering a good product along with catering to local tastes (Melbournians really love dumpling-like food items). 
+Roti Road is located on the main street in Footscray, a short walk down Barkly street from Footscray train station and the markets. 
+
+<a href="https://goo.gl/maps/U8mZj"><img src="https://maps.googleapis.com/maps/api/staticmap?center=-37.799747,144.897746&zoom=16&size=600x300&maptype=roadmap
+&markers=color:blue|-37.799747,144.897746" /></a>
+
+It bills itself as "Malaysian Chinese" cuisine, even though it's namesake, Roti, has origins in the Indian subcontinent, and they don't serve a number of popular nyonya dishes like otak otak and and asam laksa. Instead, they offer a sizeable menu that focuses on a few items within each category, and even seem to open for yum cha during the daytime. Its a good approach, as they can focus on delivering a good product along with catering to local tastes (Melbournians really love dumpling-like food items). 
 
 ![Roti Road](https://lh5.googleusercontent.com/OSb4cuw1-FYoe28Rh6fqtsNdQUQlt0oXuBoWONUlZ4I=w1036-h583-no)
 

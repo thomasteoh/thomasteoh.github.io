@@ -13,7 +13,8 @@ With the start of the colder weather in Victoria as winter approaches, hearty fa
 
 Pho Hung Vuong 2 is situated along Victoria Street in Richmond, with easy access to trams (24, 42, 109) and close to North Richmond train station. Parking is also reasonably easily found as well, whether it be along the street or within a carpark (The Hive shopping complex has 1 hour free parking, and is just across the road). 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.1390880467598!2d144.99647999999996!3d-37.81021099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7efdc4f76159db63!2sPHO+Hung+Vuong+2!5e0!3m2!1sen!2sau!4v1430118901089" width="700" height="500" frameborder="0" style="border:0"></iframe>
+<a href="https://www.google.com/maps/place/PHO+Hung+Vuong+2/@-37.810211,144.99648,16z/data=!4m2!3m1!1s0x0:0x7efdc4f76159db63?hl=en-US"><img src="https://maps.googleapis.com/maps/api/staticmap?center=-37.810211,144.99648&zoom=16&size=600x300&maptype=roadmap
+&markers=color:blue|-37.810211,144.99648" /></a>
 
 Recently refurbished, the restaurant is clean and inviting. Chairs and tables have been packed onto the dining floor, and it can get a bit cramped getting in an out when it gets busy. The dining experience feels efficient, with no fuss or nonsense. As you enter, staff will show you or indicate a table where you can sit, where you'll find cutlery, sauces, tissues and tea tucked to the side on a tray. Menus in English and Vietnamese are mounted as signs on the walls. 
 

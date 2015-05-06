@@ -9,7 +9,8 @@ Situated in the vicinity of the research precinct bordering Parkville and North 
 
 <!--break-->
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3152.661663804628!2d144.95274106745913!3d-37.79796810308149!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5d7bd7e05a3f36da!2sAvist+Cafe!5e0!3m2!1sen!2sau!4v1430797510276" width="700" height="500" frameborder="0" style="border:0"></iframe>
+<a href="https://www.google.com/maps/place/Avist+Cafe/@-37.798197,144.952902,16z/data=!4m2!3m1!1s0x0:0x5d7bd7e05a3f36da?hl=en-US"><img src="https://maps.googleapis.com/maps/api/staticmap?center=-37.798197,144.952902&zoom=16&size=600x300&maptype=roadmap
+&markers=color:blue|-37.798197,144.952902" /></a>
 
 ## The restaurant
 
