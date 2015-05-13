@@ -67,4 +67,38 @@ The end product should look something like this:
 
 ![Grid render]({{ site.baseurl }}public/downloads/grid-openscad.png)
 
-[Here is the .scad file]({{ site.baseurl }}public/downloads/grid.scad) if you want to download and have a play with it
+[Here is the .scad file for the first method]({{ site.baseurl }}public/downloads/grid1.scad) if you want to download and have a play with it
+
+## A simple alternative
+
+This approach reliably produces grids by intersecting rows of rods with columns of rods, a bit like a fence. This contrasts with previous method which pokes holes in a solid object. It is nice and simple, so its easy to quickly pop in if thats all you need. One downside is that you won't necessarily have as much control on how large the final object is. May not be a big problem, especially if you are planning to use the intersection() function to cut it further down to shape. 
+
+### Variables
+
+We'll be using 3 variables for this method, the number of windows, the size of each window and the size of the struts. Again, the values associated with these variables is up to you.
+
+{% highlight ruby %}
+window_num = 10; // number of windows
+window_size = 12; // size of individual windows
+strut_size = 8; // size of the struts
+{% endhighlight %}
+
+### Telling the rods where to go
+
+The next bit of code tells the program how to align each of the rods, based on the variables you've given it above:
+
+{% highlight ruby %}
+for (i = [0:window_num]) {
+  rotate ([0, 0, 90])
+  translate ([0, 0, (window_size + strut_size) * i])
+  cube (size=[window_num * (window_size + strut_size), strut_size, strut_size]);
+}
+
+for (i = [0:window_num]) {
+  rotate ([0, 270, 0])
+  translate ([0, (window_size + strut_size) * i, 0])
+  cube (size=[window_num * (window_size + strut_size), strut_size, strut_size]);
+}
+{% endhighlight %}
+
+[Here is the .scad file for the second method]({{ site.baseurl }}public/downloads/grid2.scad) if you want to download and have a play with it
