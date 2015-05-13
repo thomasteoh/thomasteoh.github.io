@@ -5,7 +5,7 @@ comments: true
 category: Technology
 ---
 
-<a href="http://www.openscad.org">OpenSCAD</a> is a popular tool to design 3D models using a powerful yet easy-to-learn scripting interface. This is different to some other programs that allow you to shape a model more directly. Rather, this approach may have benefits in allowing you to specify measurements precisely, and allows for easy reproducibility.
+<a href="http://www.openscad.org">OpenSCAD</a> is a popular tool to design 3D models using a powerful yet easy-to-learn scripting interface. Different to some other programs that allow you to shape a model more directly, this approach may have benefits in allowing you to specify measurements precisely, and allowing for easy reproducibility.
 
 I've been playing around with it recently for some research related projects, and I've found that it is relatively easy on system resources, running well on my low end notebook computer. Today I'll be outlining how to generate a basic modular grid/fenestrated surface using a few lines of code. 
 
