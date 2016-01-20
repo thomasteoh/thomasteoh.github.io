@@ -102,7 +102,7 @@ Commercially available scanners are not cheap; they're designed and marketed to 
 
 It connects directly to a USB port on your computer with a Male to Male type A USB cable, and there is an integrated usb to serial adaptor. The company provides a few pretty easy to use programs to control reading and writing, which work pretty well, but are only available for Microsoft Windows operating systems. Thankfully, theres some good documentation on the serial interface, so we can go that route with linux as well! Lets look at what the computer sees when we plug in the device:
 
-{% highlight shell %}
+{% highlight ruby %}
 dmesg
 ...
 usb 1-2: new full-speed USB device number 9 using xhci_hcd
