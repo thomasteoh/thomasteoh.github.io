@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microchips and authorised implanter registration
+title: Microchips and authorised implanter registration (for veterinarians in Victoria, Australia)
 comments: true
 category: Veterinary
 ---
