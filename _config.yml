@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:            Thomas Teoh
-tagline:          'veterinarian, research, eats things, does stuff'
+tagline:          'veterinarian, research, does stuff'
 description:      'Life as a veterinarian in research with a dog named Quaver.'
 url:              http://www.tteoh.com
 baseurl:          /
