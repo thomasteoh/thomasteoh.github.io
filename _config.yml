@@ -2,13 +2,11 @@
 highlighter:         rouge
 
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
 title:            Thomas Teoh
-tagline:          'veterinarian, research, does stuff'
+tagline:          'veterinarian, research, data, epi, design, also other things'
 description:      'Life as a veterinarian in research with a dog named Quaver.'
 url:              http://www.tteoh.com
 baseurl:          /
