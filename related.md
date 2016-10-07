@@ -9,7 +9,7 @@ title: Related
 
   <ul>
     <li>Website: <a href="{{ website.address }}">{{ website.address-text }}</a></li>
-    <li>Contact: [{{ website.contact-text }}]({{ website.contact }})</li>
+    <li>Contact: <a href="{{ website.contact }}">{{ website.contact-text }}</a></li>
     <li>Description:<br><div class="message">{{ website.description }}</div></li>
   </ul>
 
