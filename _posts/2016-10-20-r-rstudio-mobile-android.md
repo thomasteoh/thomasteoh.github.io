@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Running R and RStudio from an Android mobile phone
+title: Running R and RStudio from an Android mobile phone or tablet
 comments: true
 category: Technology
 ---
