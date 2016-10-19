@@ -5,11 +5,11 @@ comments: true
 category: Technology
 ---
 
+![RStudio on Android]({{ site.baseurl }}public/images/2016-10-20-rstudio-android.png)
+
 <a href="http://www.r-project.org">R</a> is a popular statistical computing environment based around a readily interpretable language, with the additional benefit of being free. There is a bit of a learning curve to it, but with plenty of resources available on the internet and with an appropriate development platform/editor, refining your analysis with it is relatively unproblematic. One commonly used platform is <a href="https://www.rstudio.com/products/rstudio/">RStudio</a>, featuring a number of features including syntax highlighting and code completion. 
 
 Obtaining RStudio is relatively painless; the software is open source and there are binaries available for numerous systems (Windows, Mac, Linux). There is even a <a href="https://www.rstudio.com/prodcts/rstudio/download-server/">version allowing you to run it from a server</a>. But what of mobile devices? After all, I sometimes don't have my computer with me, such as when I'm at conferences or seminars, and internet access is not guaranteed at all times. In this post, I'll go through the process of compiling the web-accessible server version of RStudio locally onto an Android mobile phone, to use on the Run! 
-
-![RStudio on Android]({{ site.baseurl }}public/images/2016-10-20-rstudio-android.png)
 
 
 <!--break-->
