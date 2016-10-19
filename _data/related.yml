@@ -12,6 +12,13 @@
   contact-text: email
   description: A group for all research higher degree students within the University of Melbourne, Veterinary and Agricultural Sciences faculty (PhD and Masters).
 
+- name: UQAttic
+  address: "https://www.uqattic.net"
+  address-text: UQAttic
+  contact: "http://webchat.oftc.net/?channels=attichelp%2Cattic"
+  contact-text: IRC
+  description: The UQAttic community is growing as the unofficial chat service for UQ.
+
 - name: vetrnry
   address: "http://vetrnry.com"
   address-text: vetrnry
@@ -19,9 +26,4 @@
   contact-text: email
   description: A veterinary consulting group that provides advice, resources and veterinary consultations. Based in Melbourne, Victoria, Australia
 
-- name: UQAttic
-  address: "https://www.uqattic.net"
-  address-text: UQAttic
-  contact: "http://webchat.oftc.net/?channels=attichelp%2Cattic"
-  contact-text: IRC
-  description: The UQAttic community is growing as the unofficial chat service for UQ.
+
