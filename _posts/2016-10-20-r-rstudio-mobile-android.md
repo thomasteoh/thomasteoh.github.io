@@ -34,7 +34,7 @@ There are again a number of different options for how to get the distribution se
 
 Once installed, follow the prompts to set up your Linux container. I'd recommend specififying a minimum of 4Gb of space (approximately the largest amount you can on the Android FAT32 system). As we are installing RStudio-server, you will only really need a command line interface to connect to, so can you can uncheck the graphical environment. The SSH server is important to maintain access to the machine, whether it be directly from your device or through another computer. My settings can be found <a href="{{ site.baseurl }}public/images/2016-10-20-linux-deploy-settings.png">here</a>. 
 
-Once done configuring, let Linux Deploy set it up for you. This should take 30 minutes to an hour, and completion is indicated with a "`<< Install`". When started from a stopped state, the status should look like such:
+Once done configuring, let Linux Deploy set it up for you. This should take 30 minutes to an hour, and completion is indicated with a "`<< install`". When started from a stopped state, the status should look like such:
 
 ![Linux Deploy started]({{ site.baseurl }}public/images/2016-10-20-linux-deploy-start.png)
 
@@ -62,16 +62,16 @@ sudo apt-get update
 sudo apt-get dist-upgrade
 {% endhighlight %}
 
-Some useful tools for later can be installed at this point as well. `screen` is a GNU utility that allows you to run an interactive virtual terminal. Useful especially if you're connecting from another computer as it will stay intact even if you happen to disconnect from your Android device. `openjdk-7-jdk` is a set of java development tools, and `git` is a distributed version control system. 
+Some useful tools for later can be installed at this point as well. `screen` is a utility that allows you to run an interactive virtual terminal. Useful especially if you're connecting from another computer as it will stay intact even if you happen to disconnect from your Android device. `openjdk-7-jdk` is a set of java development tools, and `git` is a distributed version control system. 
 
 {% highlight shell %}
 sudo apt-get install screen openjdk-7-jdk git
 {% endhighlight %}
 
 
-# Compiling RStudio-server
+# Compiling RStudio server
 
-I've uploaded my modified shell script to a <a href="https://github.com/thomasteoh/ARM-rstudio-server">ARM-RStudio-server GitHub repository</a>, based heavily off work for chromebooks done by <a href="https://github.com/dashaub/ARM-RStudio">dashaub</a> and <a href="https://github.com/jrowen/ARM-rstudio-server">jrowen</a>. You're free to inspect the code, and pull requests are most welcome. Running the script is a simple matter of:
+I've uploaded my modified shell script to a <a href="https://github.com/thomasteoh/ARM-rstudio-server">ARM-rstudio-server GitHub repository</a>, based heavily off work for chromebooks done by <a href="https://github.com/dashaub/ARM-RStudio">dashaub</a> and <a href="https://github.com/jrowen/ARM-rstudio-server">jrowen</a>. You're free to inspect the code, and pull requests are most welcome. Running the script is a simple matter of:
 
 {% highlight shell %}
 screen
@@ -86,13 +86,13 @@ sudo rstudio-server start
 {% endhighlight %}
 
 
-# Accessing your RStudio-server
+# Accessing RStudio
 
-You can access your installed RStudio-server from any browser on your Android device, at the address `127.0.0.1:8787`. Alternatively you can access it from a computer on the same network at port `8787`. The username and password are identical to those of your Debian credentials. Functionally it is very much similar to a desktop installation, with the exception of PDF output in R markdown documents which doesn't seem to work with the available version of `pandoc`. 
+You can access your installed RStudio server from any browser on your Android device, at the address `127.0.0.1:8787`. Alternatively you can access it from a computer on the same network at port `8787`. The username and password are identical to those of your Debian credentials. Functionally it is very much similar to a desktop installation, with the exception of PDF output in R markdown documents which doesn't seem to work with the available version of `pandoc`. 
 
 ![RStudio Server login]({{ site.baseurl }}public/images/2016-10-20-rstudio-server-login.png)
 ![RStudio Server running on Android]({{ site.baseurl }}public/images/2016-10-20-rstudio-server-running.png)
 
-
+From there, it's just a matter of installing your favourite packages and accessing your code. For ease of access, you can bookmark the address and pin a shortcut to it to your home screen.
 
 
