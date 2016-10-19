@@ -34,7 +34,7 @@ There are again a number of different options for how to get the distribution se
 
 Once installed, follow the prompts to set up your Linux container. I'd recommend specififying a minimum of 4Gb of space (approximately the largest amount you can on the Android FAT32 system). As we are installing RStudio-server, you will only really need a command line interface to connect to, so can you can uncheck the graphical environment. The SSH server is important to maintain access to the machine, whether it be directly from your device or through another computer. My settings can be found <a href="{{ site.baseurl }}public/images/2016-10-20-linux-deploy-settings.png">here</a>. 
 
-Once done configuring, let Linux Deploy set it up for you. This should take 30 minutes to an hour, and completion is indicated with a "`<< Install`. When started from a stopped state, the status should look like such:
+Once done configuring, let Linux Deploy set it up for you. This should take 30 minutes to an hour, and completion is indicated with a "`<< Install`". When started from a stopped state, the status should look like such:
 
 ![Linux Deploy started]({{ site.baseurl }}public/images/2016-10-20-linux-deploy-start.png)
 
