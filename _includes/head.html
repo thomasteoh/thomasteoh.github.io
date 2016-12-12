@@ -32,4 +32,18 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  {% if page.description == "" %}
+  {% else %}
+  <!-- OpenGraph -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@tteoh" />
+
+  <meta name="og:url" content="{{ post.url }}">
+  <meta name="og:type" content="website" />
+  <meta name="og:title" content="{{ page.title }}" />
+  <meta name="og:description" content="{{ page.description }}" />
+  <meta name="og:image" content="{{ page.image }}" />
+  {% endif %}
+
 </head>
