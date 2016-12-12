@@ -8,10 +8,11 @@ layout: default
   <meta itemprop="author" content="{{ site.author.name }}">
   <meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
 
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@tteoh" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{{ page.description }}" />
+  <meta name="og:title" content="{{ page.title }}" />
+  <meta name="og:description" content="{{ page.description }}" />
+  <meta name="og:image" content="{{ page.image }}" />
 
 
   <span itemprop="text">{{ content }}</span>

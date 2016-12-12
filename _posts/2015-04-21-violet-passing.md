@@ -4,6 +4,7 @@ title: The passing of Violet
 comments: true
 category: Veterinary
 description: Violet passed away the other day from complications developed from chronic mitral valve insufficiency.
+image: https://lh4.googleusercontent.com/PKgT9MFfZwWfO0PT9eiR3SZRNuXqSjr1fDhyBjm6LHk=w830-h583-no
 ---
 
 Some sad news today. Violet, my partner's Cavalier King Charles, passed away in Hong Kong. She has had some long term heart difficulties spanning over half a decade, which worsened suddenly last night and this morning.
