@@ -4,7 +4,7 @@ title: First nematode section uploaded in resources
 comments: true
 category: Veterinary
 description: Nematodes of veterinary importance in Australia.
-image: http://tteoh.com/images/Nematodes/Trichostrongylus-axei-spicules-gubernaculum.jpg
+image: http://tteoh.com/public/images/Nematodes/Trichostrongylus-axei-spicules-gubernaculum.jpg
 ---
 
 
