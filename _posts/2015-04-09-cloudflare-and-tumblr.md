@@ -4,7 +4,6 @@ title: Is your CloudFlare DNS not working with tumblr?
 comments: true
 category: Technology
 description: Troubleshooting why using CloudFlare doesn't seem to be compatible with tumblr pages. In short, you need to disable the traffic acceleration services within CloudFlare. 
-image: {{ site.baseurl }}public/android-chrome-192x192.png
 ---
 
 I'd been thinking that there was something wrong with my [CloudFlare](http://www.cloudflare.com) DNS settings, which made them not work when setting a domain record for [tumblr](http://www.tumblr.com). Turns out, theres a quirky interaction thats stopping it from functioning when a domain is managed "On CloudFlare" (through their traffic acceleration services). 

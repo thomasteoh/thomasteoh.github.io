@@ -4,7 +4,7 @@ title: Running R and RStudio from an Android mobile phone or tablet
 comments: true
 category: Technology
 description: Going through the process of compiling the web-accessible server version of RStudio locally onto an Android mobile phone, to use on the Run! 
-image: {{ site.baseurl }}public/images/2016-10-20-rstudio-android.png
+image: http://tteoh.com/public/images/2016-10-20-rstudio-android.png
 ---
 
 ![RStudio on Android]({{ site.baseurl }}public/images/2016-10-20-rstudio-android.png)

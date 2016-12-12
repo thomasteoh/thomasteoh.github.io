@@ -4,7 +4,7 @@ title: Microchips and authorised implanter registration (for veterinarians in Vi
 comments: true
 category: Veterinary
 description: Microchip legislative requirements in Victoria, Australia, going through the test for veterinarians and experimenting with a custom FDX-B reader.
-image: {{ site.baseurl }}public/images/2016-01-20-microchips-authorised-implanter.jpg
+image: http://tteoh.com/public/images/2016-01-20-microchips-authorised-implanter.jpg
 ---
 
 One of the <a href="http://agriculture.vic.gov.au/pets/registration-legislation-and-permits/Microchipping-of-Dogs,-Cats-and-Horses">legislated requirements</a> when adopting a furry little companion into your lives is to have them implanted with a microchip. These are permanent identification devices which provide a means to recover animals that have been lost and found. In Australia, the person installing the microchip needs to be an <a href="http://agriculture.vic.gov.au/pets/registration-legislation-and-permits/Microchipping-of-Dogs,-Cats-and-Horses/microchipping-information-for-authorised-implanters">Authorised Implanter</a>, usually a veterinarian or someone working under their supervision. 
