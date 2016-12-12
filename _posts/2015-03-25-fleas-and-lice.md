@@ -3,6 +3,7 @@ layout: post
 title: Fleas and lice resources uploaded
 comments: true
 category: Veterinary
+description: Fleas and lice of veterinary importance in Australia.
 ---
 
 The Fleas and Lice section under [Resources]({{ site.baseurl }}resources) has been uploaded! In it, there will be microscopy of the species of parasite that are of relevance to veterinary domestic animal health in Australia. This will continue to be a work in progress, as I collect more pictures and add information. 

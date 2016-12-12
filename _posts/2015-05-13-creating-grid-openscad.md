@@ -3,6 +3,7 @@ layout: post
 title: Create a grid or fenestrated surface in OpenSCAD
 comments: true
 category: Technology
+description: Going through how to create a simple replicative grid structure in OpenSCAD, to use in 3d modelling.
 ---
 
 <a href="http://www.openscad.org">OpenSCAD</a> is a popular tool to design 3D models using a powerful yet easy-to-learn scripting interface. Different to some other programs that allow you to shape a model more directly, this approach may have benefits in allowing you to specify measurements precisely, and allowing for easy reproducibility.

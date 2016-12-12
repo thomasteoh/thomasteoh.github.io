@@ -3,6 +3,7 @@ layout: post
 title: Introducing Quaver
 comments: true
 category: Veterinary
+description: An introductory post about my dog Quaver, and his quavery ways
 ---
 
 My dog, Quaver, is a cross between a miniature fox terrier and a Jack Russell terrier. He has a temperament very typical of his breeds; that is, he is very fixated on chasing objects, and is very motivated by play. 

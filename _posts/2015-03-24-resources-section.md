@@ -3,6 +3,7 @@ layout: post
 title: Using data to organise and generate page assets and resources
 comments: true
 category: technology
+description: Implementing a system to display resources relevant for veterinary studies. I'll be using this to store a bunch of reference material that I collect over the years
 ---
 
 Heaps of changes in this update; I've recently discovered the [_data feature](http://jekyllrb.com/docs/datafiles/) of [jekyll](http://www.jekyllrb.com), and have put this to use by updating the related pages and archive sections. This way any updates can be done via data files and layout changes will propagate automatically throughout all entries without my having to change every single one.

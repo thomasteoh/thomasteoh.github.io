@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Transitioning the website to Github pages and jekyll
+title: Transitioning the website to GitHub pages and jekyll
 comments: true
 category: Technology
+description: Documenting my move to static page websites on GitHub for my personal website. In short, works nicely and the system is well organised.
 ---
 
 With the discontinuation of the free hosting option by <a href="http://www.crucial.com.au">Crucial</a>, I found myself in the market for web hosting. My needs have been to this date simple and very low end; I was using it to essentially serve a webpage with links to ways to get in touch with me. For this, migrating to Crucial's <a href="http://www.crucial.com.au/web-hosting/">paid service</a> made little sense, as it would more than likely go underutilised.
