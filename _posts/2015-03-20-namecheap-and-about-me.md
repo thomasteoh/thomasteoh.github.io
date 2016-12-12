@@ -4,6 +4,7 @@ title: Namecheap's free .me student promotion, with about.me premium for a year
 comments: true
 category: Technology
 description: Free domain names are always good, but what about the other things that come with Namecheap's student promotion?
+
 ---
 
 It seems that <a href="http://www.namecheap.com">Namecheap</a>, one of the better known domain registrars on the internet, are <a href="http://www.nc.me">currently running a promotion for students</a>. What they're offering is one year's registration to a .me domain name, which is a pretty good deal in itself. Coupled with this, you have the choice of either a ready to go Github pages website (web hosting for the associated online Git repository hosting service), or a premium subscription to <a href="http://www.about.me">about.me</a> (a simple online profile generator). 

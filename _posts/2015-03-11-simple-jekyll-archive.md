@@ -4,6 +4,7 @@ title: Creating a simple archive for posts in jekyll
 comments: true
 category: Technology
 description: A short snippet of code to generate a logical and easy to use archive for your jekyll-based static site
+image:
 ---
 
 Because jekyll parses markdown when generating your static site, you can make use of javascript and variables to create a simple, customisable archive of all your posts. 

@@ -4,6 +4,7 @@ title: Chocolate toxicity in dogs
 comments: true
 category: Veterinary
 description: Discussing chocolate toxicity in dogs, some of the signs you can expect to see, as well as treatment options.
+image:
 ---
 
 With the onset of the Easter long weekend, the tradition of purchasing, giving and eating chocolate-based confectionaries can mean that domestic companion animals such as dogs may have more potential to be exposed to chocolate and thus chocolate toxicosis. Why are dogs so sensitive to Chocolate?
