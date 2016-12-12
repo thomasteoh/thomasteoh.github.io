@@ -7,6 +7,12 @@ layout: default
   <span class="post-date"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ page.date | date: "%Y/%m/%d" }} &middot; <span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ page.category }}</span>
   <meta itemprop="author" content="{{ site.author.name }}">
   <meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@tteoh" />
+  <meta name="twitter:title" content="{{ page.title }} />
+
+
   <span itemprop="text">{{ content }}</span>
 </div>
 
@@ -28,6 +34,7 @@ layout: default
 
 <div class="related">
   <h2>Comments</h2>
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
