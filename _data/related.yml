@@ -1,3 +1,17 @@
+- name: Australian Society for Parasitology
+  address: "http://parasite.org.au/"
+  address-text: parasite.org.au
+  contact: "ASP@wildapricot.org"
+  contact-text: email
+  description: The Australian Society for Parasitology brings together all those in Australia and in many other countries interested in parasites and parasitic diseases of humans and animals.
+
+- name: EcoHealth Oceania
+  address: "https://ecohealth.net/ecohealth-2/regional-chapters/oceania-chapter/"
+  address-text: ecohealth.net
+  contact: "oceania@ecohealth.net"
+  contact-text: email
+  description: EcoHealth is committed to fostering the health of humans, animals and ecosystems and to conducting research which recognizes the inextricable linkages between the health of all species and their environments.
+
 - name: Gracify
   address: "http://www.gracify.co"
   address-text: gracify.co
