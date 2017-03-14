@@ -5,7 +5,14 @@
   contact-text: email
   description: Gracify Co is a media & design studio based in Sydney, specialising in branding, animation/VFX and web design.
 
-- name: Postgraduates of Veterinary Science (POVS)
+- name: One Health Research Society (OHRS), the University of Melbourne
+  address: "http://www.facebook.com/groups/OHRSunimelb"
+  address-text: Facebook
+  contact: "ohrs.unimelb@gmail.com"
+  contact-text: email
+  description: A special interest group for RHD students looking to share knowledge and collaborate in disciplines relating to One Health.
+
+- name: Postgraduates of Veterinary Science (POVS), the University of Melbourne
   address: "http://www.facebook.com/groups/Vetscience/"
   address-text: Facebook
   contact: "mailto: povs.vetscience@gmail.com"
