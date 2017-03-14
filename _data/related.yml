@@ -1,14 +1,14 @@
 - name: Australian Society for Parasitology
   address: "http://parasite.org.au/"
   address-text: parasite.org.au
-  contact: "ASP@wildapricot.org"
+  contact: "mailto: ASP@wildapricot.org"
   contact-text: email
   description: The Australian Society for Parasitology brings together all those in Australia and in many other countries interested in parasites and parasitic diseases of humans and animals.
 
 - name: EcoHealth Oceania
   address: "https://ecohealth.net/ecohealth-2/regional-chapters/oceania-chapter/"
   address-text: ecohealth.net
-  contact: "oceania@ecohealth.net"
+  contact: "mailto: oceania@ecohealth.net"
   contact-text: email
   description: EcoHealth is committed to fostering the health of humans, animals and ecosystems and to conducting research which recognizes the inextricable linkages between the health of all species and their environments.
 
@@ -22,7 +22,7 @@
 - name: One Health Research Society (OHRS), the University of Melbourne
   address: "http://www.facebook.com/groups/OHRSunimelb"
   address-text: Facebook
-  contact: "ohrs.unimelb@gmail.com"
+  contact: "mailto: ohrs.unimelb@gmail.com"
   contact-text: email
   description: A special interest group for RHD students looking to share knowledge and collaborate in disciplines relating to One Health.
 
