@@ -9,7 +9,7 @@ title:            Thomas Teoh
 tagline:          'veterinarian, research, data, epi, also other things'
 description:      'Experimenting with interesting things, and then fixing them again. Life as a different sort of veterinarian, accompanied by trusty pup Quaver.'
 url:              https://tteoh.com
-baseurl:          /
+baseurl:          
 imgurl:           /public/images/
 paginate:         5
 
