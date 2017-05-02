@@ -6,8 +6,8 @@ permalink:           pretty
 
 # Setup
 title:            Thomas Teoh
-tagline:          'veterinarian, research, data, epi, design, also other things'
-description:      'Life as a veterinarian in research with a dog named Quaver.'
+tagline:          'veterinarian, research, data, epi, also other things'
+description:      'Experimenting with interesting things, and then fixing them again. Life as a different sort of veterinarian, accompanied by trusty pup Quaver.'
 url:              https://tteoh.com
 baseurl:          /
 imgurl:           /public/images/
