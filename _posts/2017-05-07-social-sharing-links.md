@@ -17,7 +17,7 @@ The backend of Github pages uses jekyll, which conveniently stores useful inform
 `{{ page.url | absolute_url }}`
 {% endraw %}
 
-From there, it is just a matter of working out the format of the links for the respective social media sites that you'd like to use. Some sites support including extra information as well, which can be handy for keeping a track of engagement.
+From there, it is just a matter of working out the format of the links for the respective social media sites that you'd like to use. Some sites support including extra information as well, which can be handy for keeping a track of engagement. Add these the normal way, using either hyperlinks or markdown.
 
 ### Facebook
 
@@ -34,7 +34,7 @@ From there, it is just a matter of working out the format of the links for the r
 ### Google+
 
 {% raw %}
-    https://plus.google.com/share?url={{ page.url | absolute_url }}">Google+</a></small>
+    https://plus.google.com/share?url={{ page.url | absolute_url }}
 {% endraw %}
 
 ### An example
