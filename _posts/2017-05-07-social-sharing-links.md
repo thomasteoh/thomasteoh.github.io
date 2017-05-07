@@ -11,10 +11,30 @@ Allowing visitors to share pages to social media is a good way of disseminating 
 
 <!--break-->
 
-The backend of Github pages uses jekyll, which conveniently stores useful information such as the address of each post. From there, it is just a matter of working out the format of the links for the respective social media sites that you'd like to use.
+The backend of Github pages uses jekyll, which conveniently stores useful information such as the address of each post. Specifically, this can be obtained by calling `page.url`. As these links need to come from externally, you'll need the rest of your website's address included as well, which can be fetched using `absolute_url`. So the little string you'll include where you need to put your url is as follows:
+
+```
+{{ page.url | absolute_url }}
+```
+
+From there, it is just a matter of working out the format of the links for the respective social media sites that you'd like to use. Some sites support including extra information as well, which can be handy for keeping a track of engagement.
 
 # Facebook
 
-:
+```
+http://www.facebook.com/sharer.php?u={{ page.url | absolute_url }}&t={{ page.title }}
+```
 
-The process of getting this set up involves some tinkering with the software of your device, and can lead to loss of data or potentially rendering it unusable. As always, caution is advised; ensure your data (files, photos, videos) is safely stored outside of the device you're going to be playing with. It might be a good idea to only try this process on a spare device such as an old phone or tablet. 
+# Twitter
+
+```
+http://twitter.com/share?text={{ page.title }}&url={{ page.url | absolute_url }}&hashtags={{ page.category }}
+```
+
+# Google+
+
+```
+https://plus.google.com/share?url={{ page.url | absolute_url }}">Google+</a></small>
+```
+
+You can see them working for this post just below... I've even added a fancy graphic for this page when it gets shared!
