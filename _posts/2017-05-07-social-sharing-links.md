@@ -34,7 +34,7 @@ From there, it is just a matter of working out the format of the links for the r
 ### Google+
 
 {% raw %}
-https://plus.google.com/share?url={{ page.url | absolute_url }}">Google+</a></small>
+    https://plus.google.com/share?url={{ page.url | absolute_url }}">Google+</a></small>
 {% endraw %}
 
 ### An example
